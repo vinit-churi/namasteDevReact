@@ -1,0 +1,6 @@
+highlight : How to get react inside of the project?
+easiest way to get react inside of the project is to use cdn to load the react files.
+> why are there two seperate files?
+there are 2 seperate files because the core or react is store is in one library
+and the other file is used to used for browser dom method.
+there exist various react one of them being react native
